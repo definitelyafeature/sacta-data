@@ -3,7 +3,7 @@
   "settings": {
     "acctName": "",
     "currency": "MVR",
-    "startMonth": "2026-01"
+    "startMonth": "2026-02"
   },
   "ranks": [
     {
@@ -2196,6 +2196,6 @@
     }
   ],
   "meta": {
-    "savedAt": 1787416064143
+    "savedAt": 1787416142363
   }
 }
