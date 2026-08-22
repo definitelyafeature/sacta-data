@@ -186,7 +186,7 @@
       "contributions": [
         {
           "memberId": "tqk21ycvxhag",
-          "month": "2026-01",
+          "month": "2026-02",
           "amount": 200
         }
       ],
@@ -211,7 +211,7 @@
       "contributions": [
         {
           "memberId": "tqk21ycvxhag",
-          "month": "2026-01",
+          "month": "2026-02",
           "amount": 200
         }
       ],
@@ -236,7 +236,7 @@
       "contributions": [
         {
           "memberId": "m7wd898vxhag",
-          "month": "2026-01",
+          "month": "2026-02",
           "amount": 200
         }
       ],
@@ -261,7 +261,7 @@
       "contributions": [
         {
           "memberId": "0blk15faxhag",
-          "month": "2026-01",
+          "month": "2026-02",
           "amount": 300
         }
       ],
@@ -286,7 +286,7 @@
       "contributions": [
         {
           "memberId": "r9iqd45xxhag",
-          "month": "2026-01",
+          "month": "2026-02",
           "amount": 300
         }
       ],
@@ -717,7 +717,7 @@
       "contributions": [
         {
           "memberId": "m7wd898vxhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 200
         }
       ],
@@ -742,7 +742,7 @@
       "contributions": [
         {
           "memberId": "r9iqd45xxhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 400
         }
       ],
@@ -767,7 +767,7 @@
       "contributions": [
         {
           "memberId": "0blk15faxhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 300
         }
       ],
@@ -792,7 +792,7 @@
       "contributions": [
         {
           "memberId": "ve4jslqe8rzl",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 200
         }
       ],
@@ -817,7 +817,7 @@
       "contributions": [
         {
           "memberId": "llok1cc2xhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 200
         }
       ],
@@ -842,7 +842,7 @@
       "contributions": [
         {
           "memberId": "zquf7pnfxhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 300
         }
       ],
@@ -867,7 +867,7 @@
       "contributions": [
         {
           "memberId": "ac5jdejpxhag",
-          "month": "2026-03",
+          "month": "2026-04",
           "amount": 200
         }
       ],
@@ -1019,7 +1019,7 @@
       "contributions": [
         {
           "memberId": "r9iqd45xxhag",
-          "month": "2026-04",
+          "month": "2026-05",
           "amount": 400
         }
       ],
@@ -1044,7 +1044,7 @@
       "contributions": [
         {
           "memberId": "llok1cc2xhag",
-          "month": "2026-04",
+          "month": "2026-05",
           "amount": 200
         }
       ],
@@ -1069,7 +1069,7 @@
       "contributions": [
         {
           "memberId": "zquf7pnfxhag",
-          "month": "2026-04",
+          "month": "2026-05",
           "amount": 300
         }
       ],
@@ -1094,7 +1094,7 @@
       "contributions": [
         {
           "memberId": "ac5jdejpxhag",
-          "month": "2026-04",
+          "month": "2026-05",
           "amount": 200
         }
       ],
@@ -1119,7 +1119,7 @@
       "contributions": [
         {
           "memberId": "m7wd898vxhag",
-          "month": "2026-04",
+          "month": "2026-05",
           "amount": 200
         }
       ],
@@ -1531,7 +1531,7 @@
       "contributions": [
         {
           "memberId": "r9iqd45xxhag",
-          "month": "2026-06",
+          "month": "2026-07",
           "amount": 400
         }
       ],
@@ -1556,7 +1556,7 @@
       "contributions": [
         {
           "memberId": "tqk21ycvxhag",
-          "month": "2026-06",
+          "month": "2026-07",
           "amount": 200
         }
       ],
@@ -1581,7 +1581,7 @@
       "contributions": [
         {
           "memberId": "m7wd898vxhag",
-          "month": "2026-06",
+          "month": "2026-07",
           "amount": 200
         }
       ],
@@ -1606,7 +1606,7 @@
       "contributions": [
         {
           "memberId": "llok1cc2xhag",
-          "month": "2026-06",
+          "month": "2026-07",
           "amount": 200
         }
       ],
@@ -1791,7 +1791,7 @@
       "contributions": [
         {
           "memberId": "n28qipqbxhag",
-          "month": "2026-07",
+          "month": "2026-08",
           "amount": 1000
         }
       ],
@@ -1816,7 +1816,7 @@
       "contributions": [
         {
           "memberId": "llok1cc2xhag",
-          "month": "2026-07",
+          "month": "2026-08",
           "amount": 200
         }
       ],
@@ -1841,7 +1841,7 @@
       "contributions": [
         {
           "memberId": "ac5jdejpxhag",
-          "month": "2026-07",
+          "month": "2026-08",
           "amount": 400
         }
       ],
@@ -2216,6 +2216,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1787427581690
+    "savedAt": 1787428350065,
+    "mig28": true
   }
 }
