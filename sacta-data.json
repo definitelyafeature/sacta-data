@@ -29,124 +29,144 @@
   ],
   "members": [
     {
-      "id": "tqk21ycvxhag",
-      "name": "Shaiman",
-      "userId": "U3155",
-      "rankId": "q4do4fy2xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "AHMED SHAIMAN SHAMOON"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "tqk21ycvxhag",
+      "name": "Shaiman",
+      "userId": "U3155",
+      "rankId": "q4do4fy2xhag"
     },
     {
-      "id": "r9iqd45xxhag",
-      "name": "Huzna",
-      "userId": "U1484",
-      "rankId": "vpkp5i16xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "HUZNA AHMED"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 100,
+      "photo": null,
+      "id": "r9iqd45xxhag",
+      "name": "Huzna",
+      "userId": "U1484",
+      "rankId": "vpkp5i16xhag"
     },
     {
-      "id": "0blk15faxhag",
-      "name": "Miruaath",
-      "userId": "U2298",
-      "rankId": "0a7uiy6vxhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "AISHATH MIRUAATH AHMED"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "0blk15faxhag",
+      "name": "Miruaath",
+      "userId": "U2298",
+      "rankId": "0a7uiy6vxhag"
     },
     {
-      "id": "zquf7pnfxhag",
-      "name": "Zunair",
-      "userId": "U1720",
-      "rankId": "0a7uiy6vxhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "AHMED ZUNAIR"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "zquf7pnfxhag",
+      "name": "Zunair",
+      "userId": "U1720",
+      "rankId": "0a7uiy6vxhag"
     },
     {
-      "id": "llok1cc2xhag",
-      "name": "Anis",
-      "userId": "U2493",
-      "rankId": "q4do4fy2xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "AHMED ANIS ABDULLA"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "llok1cc2xhag",
+      "name": "Anis",
+      "userId": "U2493",
+      "rankId": "q4do4fy2xhag"
     },
     {
-      "id": "m7wd898vxhag",
-      "name": "Saushan",
-      "userId": "U2814",
-      "rankId": "q4do4fy2xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "SAUSHAN SOLIH"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "m7wd898vxhag",
+      "name": "Saushan",
+      "userId": "U2814",
+      "rankId": "q4do4fy2xhag"
     },
     {
-      "id": "ac5jdejpxhag",
-      "name": "Suaidh",
-      "userId": "U3753",
-      "rankId": "q4do4fy2xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "SUAIDH MOHAMED RASHEEDH"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "ac5jdejpxhag",
+      "name": "Suaidh",
+      "userId": "U3753",
+      "rankId": "q4do4fy2xhag"
     },
     {
-      "id": "n28qipqbxhag",
-      "name": "Ismail",
-      "userId": "U1040",
-      "rankId": "w73lc0w1xhag",
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null,
       "bankNames": [
         "ISMAIL ALI"
       ],
-      "retired": false,
-      "joinMonth": "2026-01",
-      "retireMonth": null
+      "forgiven": 0,
+      "photo": null,
+      "id": "n28qipqbxhag",
+      "name": "Ismail",
+      "userId": "U1040",
+      "rankId": "w73lc0w1xhag"
     },
     {
-      "id": "ve4jslqe8rzl",
       "retired": true,
-      "retireMonth": "2026-08",
-      "name": "Nail",
-      "userId": "U3238",
-      "rankId": "q4do4fy2xhag",
       "joinMonth": "2026-01",
+      "retireMonth": "2026-08",
       "bankNames": [
         "NAIL MOHAMED SHAREEF"
-      ]
+      ],
+      "forgiven": 0,
+      "photo": null,
+      "id": "ve4jslqe8rzl",
+      "name": "Nail",
+      "userId": "U3238",
+      "rankId": "q4do4fy2xhag"
     },
     {
-      "id": "8zti4laid4sw",
       "retired": true,
-      "retireMonth": "2026-08",
-      "name": "Sameer",
-      "userId": "U1996",
-      "rankId": "q4do4fy2xhag",
       "joinMonth": "2026-01",
+      "retireMonth": "2026-08",
       "bankNames": [
         "AHMED SAMEER"
-      ]
+      ],
+      "forgiven": 0,
+      "photo": null,
+      "id": "8zti4laid4sw",
+      "name": "Sameer",
+      "userId": "U1996",
+      "rankId": "q4do4fy2xhag"
     }
   ],
   "creditTags": [
@@ -160,6 +180,17 @@
   "debitTags": [],
   "transactions": [
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "tqk21ycvxhag",
+          "month": "2026-01",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "9vzkagrfxwp9",
       "source": "import",
       "blaz": "BLAZ674808465676",
@@ -171,7 +202,9 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 200,
+      "balanceAfter": 200
+    },
+    {
       "tags": [
         "contribution"
       ],
@@ -182,9 +215,7 @@
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "alzpq723xwp9",
       "source": "import",
       "blaz": "BLAZ698141455515",
@@ -196,20 +227,20 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 400,
+      "balanceAfter": 400
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "tqk21ycvxhag",
+          "memberId": "m7wd898vxhag",
           "month": "2026-01",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "oop62tpmxwp9",
       "source": "import",
       "blaz": "BLAZ833027748550",
@@ -221,20 +252,20 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 600,
+      "balanceAfter": 600
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "m7wd898vxhag",
+          "memberId": "0blk15faxhag",
           "month": "2026-01",
-          "amount": 200
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "gwewuzc2xwp9",
       "source": "import",
       "blaz": "BLAZ351460558624",
@@ -246,20 +277,20 @@
       "counterparty": "AISHATH MIRUAATH AHMED",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 900,
+      "balanceAfter": 900
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "0blk15faxhag",
+          "memberId": "r9iqd45xxhag",
           "month": "2026-01",
           "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "igerco9txwp9",
       "source": "import",
       "blaz": "BLAZ451776251579",
@@ -271,20 +302,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 1200,
+      "balanceAfter": 1200
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
-          "month": "2026-01",
-          "amount": 300
+          "memberId": "llok1cc2xhag",
+          "month": "2026-02",
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "ecnvt2chxwp9",
       "source": "import",
       "blaz": "BLAZ498567894443",
@@ -296,20 +327,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 1400,
+      "balanceAfter": 1400
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-02",
-          "amount": 200
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "78i2fjgdxwp9",
       "source": "import",
       "blaz": "BLAZ549045446554",
@@ -321,20 +352,20 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 1700,
+      "balanceAfter": 1700
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "zquf7pnfxhag",
+          "memberId": "ve4jslqe8rzl",
           "month": "2026-02",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "ubo4u7u3xwp9",
       "source": "import",
       "blaz": "BLAZ407490423758",
@@ -346,20 +377,20 @@
       "counterparty": "NAIL MOHAMED SHAREEF",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 1900,
+      "balanceAfter": 1900
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ve4jslqe8rzl",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-02",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "w5ctxlcyxwp9",
       "source": "import",
       "blaz": "BLAZ399609282460",
@@ -371,20 +402,12 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 2100,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "ac5jdejpxhag",
-          "month": "2026-02",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 2100
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "g42yv6puxwp9",
       "source": "import",
       "blaz": "BLAZ796736783587",
@@ -396,12 +419,12 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 44,
-      "balanceAfter": 2144,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 2144
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "pci2tx4wxwp9",
       "source": "import",
       "blaz": "BLAZ978033052203",
@@ -413,12 +436,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 44,
-      "balanceAfter": 2100,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 2100
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "3onllxj9xwp9",
       "source": "import",
       "blaz": "BLAZ800425435458",
@@ -430,24 +453,9 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 235,
-      "balanceAfter": 1865,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 1865
     },
     {
-      "id": "er9v5nruxwp9",
-      "source": "import",
-      "blaz": "BLAZ234065915407",
-      "ft": "FT26060PB6QR\\B26",
-      "date": "2026-03-01",
-      "valueDate": "2026-03-01",
-      "ts": "01-03-2026 21-43-21",
-      "type": "credit",
-      "counterparty": "AHMED SHAIMAN SHAMOON",
-      "channel": "Internet Banking",
-      "amount": 500,
-      "balanceAfter": 2365,
       "tags": [
         "contribution"
       ],
@@ -463,9 +471,32 @@
           "amount": 200
         }
       ],
-      "description": ""
+      "description": "",
+      "id": "er9v5nruxwp9",
+      "source": "import",
+      "blaz": "BLAZ234065915407",
+      "ft": "FT26060PB6QR\\B26",
+      "date": "2026-03-01",
+      "valueDate": "2026-03-01",
+      "ts": "01-03-2026 21-43-21",
+      "type": "credit",
+      "counterparty": "AHMED SHAIMAN SHAMOON",
+      "channel": "Internet Banking",
+      "amount": 500,
+      "balanceAfter": 2365
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "tqk21ycvxhag",
+          "month": "2026-03",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "slcykhd5xwp9",
       "source": "import",
       "blaz": "BLAZ480947356465",
@@ -477,20 +508,20 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 2565,
+      "balanceAfter": 2565
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "tqk21ycvxhag",
+          "memberId": "m7wd898vxhag",
           "month": "2026-03",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "hxvaczk4xwp9",
       "source": "import",
       "blaz": "BLAZ544579443030",
@@ -502,20 +533,20 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 2765,
+      "balanceAfter": 2765
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "m7wd898vxhag",
+          "memberId": "r9iqd45xxhag",
           "month": "2026-03",
-          "amount": 200
+          "amount": 100
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "4zi0wx3axwp9",
       "source": "import",
       "blaz": "BLAZ838289730751",
@@ -527,20 +558,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 100,
-      "balanceAfter": 2865,
+      "balanceAfter": 2865
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "n28qipqbxhag",
           "month": "2026-03",
-          "amount": 100
+          "amount": 1000
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "0n9z2sh6xwp9",
       "source": "import",
       "blaz": "BLAZ930245083494",
@@ -552,20 +583,20 @@
       "counterparty": "ISMAIL ALI",
       "channel": "Internet Banking",
       "amount": 1000,
-      "balanceAfter": 3865,
+      "balanceAfter": 3865
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "n28qipqbxhag",
+          "memberId": "llok1cc2xhag",
           "month": "2026-03",
-          "amount": 1000
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "6q2omhxexwp9",
       "source": "import",
       "blaz": "BLAZ691319345774",
@@ -577,20 +608,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 4065,
+      "balanceAfter": 4065
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "ve4jslqe8rzl",
           "month": "2026-03",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "j3dlen44xwp9",
       "source": "import",
       "blaz": "BLAZ463181121999",
@@ -602,20 +633,20 @@
       "counterparty": "NAIL MOHAMED SHAREEF",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 4265,
+      "balanceAfter": 4265
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ve4jslqe8rzl",
+          "memberId": "0blk15faxhag",
           "month": "2026-03",
-          "amount": 200
+          "amount": 100
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "e2ygrjdwxwp9",
       "source": "import",
       "blaz": "BLAZ281866840725",
@@ -627,20 +658,20 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 100,
-      "balanceAfter": 4365,
+      "balanceAfter": 4365
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "0blk15faxhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-03",
-          "amount": 100
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "3i9dizmkxwp9",
       "source": "import",
       "blaz": "BLAZ859011927434",
@@ -652,20 +683,20 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 4665,
+      "balanceAfter": 4665
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "zquf7pnfxhag",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-03",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "dchwtb42xwp9",
       "source": "import",
       "blaz": "BLAZ199994902064",
@@ -677,20 +708,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 4865,
+      "balanceAfter": 4865
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
+          "memberId": "m7wd898vxhag",
           "month": "2026-03",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "6db1fldlxwp9",
       "source": "import",
       "blaz": "BLAZ910639675680",
@@ -702,20 +733,20 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 5065,
+      "balanceAfter": 5065
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "m7wd898vxhag",
+          "memberId": "r9iqd45xxhag",
           "month": "2026-03",
-          "amount": 200
+          "amount": 400
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "iaxf7b3zxwp9",
       "source": "import",
       "blaz": "BLAZ705723426874",
@@ -727,20 +758,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 5465,
+      "balanceAfter": 5465
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "0blk15faxhag",
           "month": "2026-03",
-          "amount": 400
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "30l1e1u4xwpa",
       "source": "import",
       "blaz": "BLAZ765639009015",
@@ -752,20 +783,20 @@
       "counterparty": "AISHATH MIRUAATH AHMED",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 5765,
+      "balanceAfter": 5765
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "0blk15faxhag",
+          "memberId": "ve4jslqe8rzl",
           "month": "2026-03",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "tvjuvlitxwpa",
       "source": "import",
       "blaz": "BLAZ979198746740",
@@ -777,20 +808,20 @@
       "counterparty": "NAIL MOHAMED SHAREEF",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 5965,
+      "balanceAfter": 5965
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ve4jslqe8rzl",
+          "memberId": "llok1cc2xhag",
           "month": "2026-03",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "33scgnu9xwpa",
       "source": "import",
       "blaz": "BLAZ429353929317",
@@ -802,20 +833,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6165,
+      "balanceAfter": 6165
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-03",
-          "amount": 200
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "pcikr629xwpa",
       "source": "import",
       "blaz": "BLAZ546172554353",
@@ -827,20 +858,20 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 6465,
+      "balanceAfter": 6465
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "zquf7pnfxhag",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-03",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "wj3fg810xwpa",
       "source": "import",
       "blaz": "BLAZ135578830484",
@@ -852,20 +883,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6665,
+      "balanceAfter": 6665
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
-          "month": "2026-03",
-          "amount": 200
+          "memberId": "n28qipqbxhag",
+          "month": "2026-04",
+          "amount": 500
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "m176dmf2xwpa",
       "source": "import",
       "blaz": "BLAZ585827053246",
@@ -877,20 +908,12 @@
       "counterparty": "ISMAIL ALI",
       "channel": "Internet Banking",
       "amount": 500,
-      "balanceAfter": 7165,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "n28qipqbxhag",
-          "month": "2026-04",
-          "amount": 500
-        }
-      ],
-      "description": ""
+      "balanceAfter": 7165
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "ue4f6v1zxwpa",
       "source": "import",
       "blaz": "BLAZ811588650839",
@@ -902,12 +925,12 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 500,
-      "balanceAfter": 7665,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 7665
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "v3it4ww1xwpa",
       "source": "import",
       "blaz": "BLAZ295471324965",
@@ -919,12 +942,12 @@
       "counterparty": "ISMAIL ALI",
       "channel": "Internet Banking",
       "amount": 1000,
-      "balanceAfter": 8665,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 8665
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "efu6dgcnxwpa",
       "source": "import",
       "blaz": "BLAZ323119678712",
@@ -936,12 +959,12 @@
       "counterparty": "NAIL MOHAMED SHAREEF",
       "channel": "Internet Banking",
       "amount": 1100,
-      "balanceAfter": 9765,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 9765
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "zwoue2fdxwpa",
       "source": "import",
       "blaz": "BLAZ108397682004",
@@ -953,12 +976,12 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 10065,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10065
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "1c2zzqj6xwpa",
       "source": "import",
       "blaz": "BLAZ197038292790",
@@ -970,12 +993,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 10365,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10365
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "6wsg3po3xwpa",
       "source": "import",
       "blaz": "BLAZ845861234728",
@@ -987,12 +1010,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 10665,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10665
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-04",
+          "amount": 400
+        }
+      ],
+      "description": "",
       "id": "m5h9w7qjxwpa",
       "source": "import",
       "blaz": "BLAZ302495394873",
@@ -1004,20 +1035,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 11065,
+      "balanceAfter": 11065
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "llok1cc2xhag",
           "month": "2026-04",
-          "amount": 400
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "0egr17tjxwpa",
       "source": "import",
       "blaz": "BLAZ560241597038",
@@ -1029,20 +1060,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11265,
+      "balanceAfter": 11265
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-04",
-          "amount": 200
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "eowefw8sxwpa",
       "source": "import",
       "blaz": "BLAZ774746673925",
@@ -1054,20 +1085,20 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 11565,
+      "balanceAfter": 11565
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "zquf7pnfxhag",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-04",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "ybbzrgzwxwpa",
       "source": "import",
       "blaz": "BLAZ531623834247",
@@ -1079,20 +1110,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11765,
+      "balanceAfter": 11765
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
+          "memberId": "m7wd898vxhag",
           "month": "2026-04",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "pzachx2xxwpa",
       "source": "import",
       "blaz": "BLAZ184574447246",
@@ -1104,20 +1135,12 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11965,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "m7wd898vxhag",
-          "month": "2026-04",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 11965
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "y186b5huxwpa",
       "source": "import",
       "blaz": "BLAZ702052488956",
@@ -1129,12 +1152,20 @@
       "counterparty": "SOUTHERN AURORA INVESTMENT",
       "channel": "Internet Banking",
       "amount": 1144.9,
-      "balanceAfter": 10820.1,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10820.1
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "tqk21ycvxhag",
+          "month": "2026-05",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "k15r8l1qxwpa",
       "source": "import",
       "blaz": "BLAZ308155292836",
@@ -1146,20 +1177,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11020.1,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "tqk21ycvxhag",
-          "month": "2026-05",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 11020.1
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "z5q01oe3xwpa",
       "source": "import",
       "blaz": "BLAZ875179585579",
@@ -1171,12 +1194,12 @@
       "counterparty": "PROFOUNDER MALDIVES PVT LTD",
       "channel": "Internet Banking",
       "amount": 510.3,
-      "balanceAfter": 10509.8,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10509.8
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "xdocat1yxwpa",
       "source": "import",
       "blaz": "BLAZ554952763102",
@@ -1188,12 +1211,12 @@
       "counterparty": "HASSAN ABDUL HAKEEM",
       "channel": "Internet Banking",
       "amount": 230,
-      "balanceAfter": 10279.8,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10279.8
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "hkgc1ikqxwpa",
       "source": "import",
       "blaz": "BLAZ637420064495",
@@ -1205,12 +1228,20 @@
       "counterparty": "RAZANA MOHAMED WAHEED",
       "channel": "Internet Banking",
       "amount": 650,
-      "balanceAfter": 9629.8,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 9629.8
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "n28qipqbxhag",
+          "month": "2026-06",
+          "amount": 1000
+        }
+      ],
+      "description": "",
       "id": "oswpio3mxwpa",
       "source": "import",
       "blaz": "BLAZ709187591882",
@@ -1222,20 +1253,20 @@
       "counterparty": "ISMAIL ALI",
       "channel": "Internet Banking",
       "amount": 1000,
-      "balanceAfter": 10629.8,
+      "balanceAfter": 10629.8
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "n28qipqbxhag",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-06",
-          "amount": 1000
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "dkrhiztjxwpa",
       "source": "import",
       "blaz": "BLAZ247504666712",
@@ -1247,20 +1278,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 10829.8,
+      "balanceAfter": 10829.8
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
+          "memberId": "llok1cc2xhag",
           "month": "2026-06",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "apzykkycxwpa",
       "source": "import",
       "blaz": "BLAZ714481158767",
@@ -1272,20 +1303,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11029.8,
+      "balanceAfter": 11029.8
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "tqk21ycvxhag",
           "month": "2026-06",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "hhs6zzifxwpa",
       "source": "import",
       "blaz": "BLAZ440058682156",
@@ -1297,20 +1328,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 11229.8,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "tqk21ycvxhag",
-          "month": "2026-06",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 11229.8
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "on40rmr9xwpa",
       "source": "import",
       "blaz": "BLAZ395582050585",
@@ -1322,12 +1345,20 @@
       "counterparty": "SOUTHERN AURORA INVESTMENT",
       "channel": "Internet Banking",
       "amount": 1094.61,
-      "balanceAfter": 10135.19,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10135.19
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "m7wd898vxhag",
+          "month": "2026-06",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "txz0y31lxwpa",
       "source": "import",
       "blaz": "BLAZ187499513370",
@@ -1339,20 +1370,20 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 10335.19,
+      "balanceAfter": 10335.19
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "m7wd898vxhag",
+          "memberId": "r9iqd45xxhag",
           "month": "2026-06",
-          "amount": 200
+          "amount": 400
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "edubxw0rxwpa",
       "source": "import",
       "blaz": "BLAZ626859772169",
@@ -1364,20 +1395,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 10735.19,
+      "balanceAfter": 10735.19
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-06",
-          "amount": 400
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "tcc7lbizxwpa",
       "source": "import",
       "blaz": "BLAZ328189477047",
@@ -1389,20 +1420,12 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 11035.19,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "zquf7pnfxhag",
-          "month": "2026-06",
-          "amount": 300
-        }
-      ],
-      "description": ""
+      "balanceAfter": 11035.19
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "2e7ofxwkxwpa",
       "source": "import",
       "blaz": "BLAZ533646998593",
@@ -1414,12 +1437,12 @@
       "counterparty": "MOHAMED AJEEB",
       "channel": "Internet Banking",
       "amount": 640,
-      "balanceAfter": 10395.19,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 10395.19
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "p127wtgpxwpa",
       "source": "import",
       "blaz": "BLAZ762695234897",
@@ -1431,12 +1454,12 @@
       "counterparty": "AMINATH HABEEBA",
       "channel": "Internet Banking",
       "amount": 445,
-      "balanceAfter": 9950.19,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 9950.19
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "4jipp27zxwpa",
       "source": "import",
       "blaz": "BLAZ916596904875",
@@ -1448,12 +1471,12 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 1105,
-      "balanceAfter": 8845.19,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 8845.19
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "eqewxewmxwpa",
       "source": "import",
       "blaz": "BLAZ268839794477",
@@ -1465,12 +1488,12 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 500,
-      "balanceAfter": 9345.19,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 9345.19
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "nm7802gvxwpa",
       "source": "import",
       "blaz": "BLAZ363175241840",
@@ -1482,12 +1505,12 @@
       "counterparty": "BOAVAA PARTNERS LLP",
       "channel": "Internet Banking",
       "amount": 617.99,
-      "balanceAfter": 8727.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 8727.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "gqro2zjnxwpa",
       "source": "import",
       "blaz": "BLAZ925450776603",
@@ -1499,12 +1522,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 2000,
-      "balanceAfter": 6727.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 6727.2
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-06",
+          "amount": 400
+        }
+      ],
+      "description": "",
       "id": "2mijfa2exwpa",
       "source": "import",
       "blaz": "BLAZ903155612554",
@@ -1516,20 +1547,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 7127.2,
+      "balanceAfter": 7127.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "tqk21ycvxhag",
           "month": "2026-06",
-          "amount": 400
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "lwz2t1a5xwpa",
       "source": "import",
       "blaz": "BLAZ149448199040",
@@ -1541,20 +1572,20 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 7327.2,
+      "balanceAfter": 7327.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "tqk21ycvxhag",
+          "memberId": "m7wd898vxhag",
           "month": "2026-06",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "yzwhwzmvxwpa",
       "source": "import",
       "blaz": "BLAZ400663386785",
@@ -1566,20 +1597,20 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 7527.2,
+      "balanceAfter": 7527.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "m7wd898vxhag",
+          "memberId": "llok1cc2xhag",
           "month": "2026-06",
           "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "nv508szkxwpa",
       "source": "import",
       "blaz": "BLAZ294169037265",
@@ -1591,20 +1622,12 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 7727.2,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "llok1cc2xhag",
-          "month": "2026-06",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 7727.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "3f8ehb6yxwpa",
       "source": "import",
       "blaz": "BLAZ297787268571",
@@ -1616,12 +1639,20 @@
       "counterparty": "AHMED IHSAN",
       "channel": "Internet Banking",
       "amount": 1624,
-      "balanceAfter": 6103.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 6103.2
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "ac5jdejpxhag",
+          "month": "2026-07",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "j8yvtmtgxwpa",
       "source": "import",
       "blaz": "BLAZ167053287254",
@@ -1633,20 +1664,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6303.2,
+      "balanceAfter": 6303.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
+          "memberId": "zquf7pnfxhag",
           "month": "2026-07",
-          "amount": 200
+          "amount": 300
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "ne0jyblpxwpa",
       "source": "import",
       "blaz": "BLAZ208448217760",
@@ -1658,20 +1689,20 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 6603.2,
+      "balanceAfter": 6603.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "zquf7pnfxhag",
+          "memberId": "8zti4laid4sw",
           "month": "2026-07",
-          "amount": 300
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "kgrkou0sxwpa",
       "source": "import",
       "blaz": "BLAZ886268070899",
@@ -1683,20 +1714,12 @@
       "counterparty": "AHMED SAMEER",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6803.2,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "8zti4laid4sw",
-          "month": "2026-07",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 6803.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "msoqyx0yxwpa",
       "source": "import",
       "blaz": "BLAZ226312909463",
@@ -1708,12 +1731,12 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 1500,
-      "balanceAfter": 5303.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5303.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "n1fkrs1zxwpa",
       "source": "import",
       "blaz": "BLAZ192156104291",
@@ -1725,12 +1748,12 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 260,
-      "balanceAfter": 5563.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5563.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "ssxj95p4xwpa",
       "source": "import",
       "blaz": "BLAZ782182738342",
@@ -1742,12 +1765,12 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 275,
-      "balanceAfter": 5288.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5288.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "ulpagakrxwpa",
       "source": "import",
       "blaz": "BLAZ965829045059",
@@ -1759,12 +1782,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 5,
-      "balanceAfter": 5293.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5293.2
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "n28qipqbxhag",
+          "month": "2026-07",
+          "amount": 1000
+        }
+      ],
+      "description": "",
       "id": "ref4msidxwpa",
       "source": "import",
       "blaz": "BLAZ737155818077",
@@ -1776,20 +1807,20 @@
       "counterparty": "ISMAIL ALI",
       "channel": "Internet Banking",
       "amount": 1000,
-      "balanceAfter": 6293.2,
+      "balanceAfter": 6293.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "n28qipqbxhag",
+          "memberId": "llok1cc2xhag",
           "month": "2026-07",
-          "amount": 1000
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "lh00akxhxwpa",
       "source": "import",
       "blaz": "BLAZ335839853166",
@@ -1801,20 +1832,20 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6493.2,
+      "balanceAfter": 6493.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
+          "memberId": "ac5jdejpxhag",
           "month": "2026-07",
-          "amount": 200
+          "amount": 400
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "3woehtgjxwpa",
       "source": "import",
       "blaz": "BLAZ424478680841",
@@ -1826,20 +1857,20 @@
       "counterparty": "SUAIDH MOHAMED RASHEEDH",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 6893.2,
+      "balanceAfter": 6893.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "ac5jdejpxhag",
-          "month": "2026-07",
-          "amount": 400
+          "memberId": "m7wd898vxhag",
+          "month": "2026-08",
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "wj5lqj1uxwpa",
       "source": "import",
       "blaz": "BLAZ138186438741",
@@ -1851,20 +1882,12 @@
       "counterparty": "SAUSHAN SOLIH",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 7093.2,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "m7wd898vxhag",
-          "month": "2026-08",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 7093.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "8b1d7ge2xwpa",
       "source": "import",
       "blaz": "BLAZ813082354385",
@@ -1876,12 +1899,20 @@
       "counterparty": "AHMED IHSAN",
       "channel": "Internet Banking",
       "amount": 1485,
-      "balanceAfter": 5608.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5608.2
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-08",
+          "amount": 400
+        }
+      ],
+      "description": "",
       "id": "ghsvqsf2xwpa",
       "source": "import",
       "blaz": "BLAZ486593645391",
@@ -1893,20 +1924,20 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 6008.2,
+      "balanceAfter": 6008.2
+    },
+    {
       "tags": [
         "contribution"
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
+          "memberId": "tqk21ycvxhag",
           "month": "2026-08",
-          "amount": 400
+          "amount": 200
         }
       ],
-      "description": ""
-    },
-    {
+      "description": "",
       "id": "r37p4tp7xwpa",
       "source": "import",
       "blaz": "BLAZ144442531996",
@@ -1918,20 +1949,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6208.2,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "tqk21ycvxhag",
-          "month": "2026-08",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 6208.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "gnpu6i6fxwpa",
       "source": "import",
       "blaz": "BLAZ870310738903",
@@ -1943,12 +1966,20 @@
       "counterparty": "AMINATH HABEEBA",
       "channel": "Internet Banking",
       "amount": 145,
-      "balanceAfter": 6063.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 6063.2
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "0blk15faxhag",
+          "month": "2026-08",
+          "amount": 1500
+        }
+      ],
+      "description": "",
       "id": "o80qj73rxwpa",
       "source": "import",
       "blaz": "BLAZ759839326214",
@@ -1960,20 +1991,12 @@
       "counterparty": "AISHATH MIRUAATH AHMED",
       "channel": "Internet Banking",
       "amount": 1500,
-      "balanceAfter": 7563.2,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "0blk15faxhag",
-          "month": "2026-08",
-          "amount": 1500
-        }
-      ],
-      "description": ""
+      "balanceAfter": 7563.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "hrbtj0i1xwpa",
       "source": "import",
       "blaz": "BLAZ664397393165",
@@ -1985,12 +2008,12 @@
       "counterparty": "AMINATH HABEEBA",
       "channel": "Internet Banking",
       "amount": 115,
-      "balanceAfter": 7448.2,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 7448.2
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "7j0zf5lexwpa",
       "source": "import",
       "blaz": "BLAZ573094748205",
@@ -2002,12 +2025,12 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 803.57,
-      "balanceAfter": 6644.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 6644.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "qcs8jkb2xwpa",
       "source": "import",
       "blaz": "BLAZ818045167454",
@@ -2019,12 +2042,12 @@
       "counterparty": "IDREES ABDULLA",
       "channel": "Internet Banking",
       "amount": 160,
-      "balanceAfter": 6484.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 6484.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "sc6d4khkxwpa",
       "source": "import",
       "blaz": "BLAZ113490251419",
@@ -2036,12 +2059,12 @@
       "counterparty": "HATHAA MALDIVES PVT LTD",
       "channel": "Internet Banking",
       "amount": 500,
-      "balanceAfter": 5984.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5984.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "z7w238u5xwpa",
       "source": "import",
       "blaz": "BLAZ205924536997",
@@ -2053,12 +2076,12 @@
       "counterparty": "MOHAMED ZUBAIR",
       "channel": "Internet Banking",
       "amount": 50,
-      "balanceAfter": 5934.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5934.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "lm8ndvgexwpa",
       "source": "import",
       "blaz": "BLAZ685337632198",
@@ -2070,12 +2093,12 @@
       "counterparty": "FATHIMATH WAHEEDA",
       "channel": "Internet Banking",
       "amount": 140,
-      "balanceAfter": 5794.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5794.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "hvjf8qwdxwpa",
       "source": "import",
       "blaz": "BLAZ629682662106",
@@ -2087,12 +2110,12 @@
       "counterparty": "MOHAMED ZUBAIR",
       "channel": "Internet Banking",
       "amount": 25,
-      "balanceAfter": 5769.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5769.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "vn8s4rmwxwpa",
       "source": "import",
       "blaz": "BLAZ829047498102",
@@ -2104,12 +2127,12 @@
       "counterparty": "HAPPY MARKET TRADING COMPANY PTE",
       "channel": "LTD",
       "amount": 534,
-      "balanceAfter": 5235.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5235.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "kfenv9uwxwpa",
       "source": "import",
       "blaz": "BLAZ547754776703",
@@ -2121,12 +2144,12 @@
       "counterparty": "MOHAMED ZUBAIR",
       "channel": "Internet Banking",
       "amount": 55,
-      "balanceAfter": 5180.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5180.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "36rjysp7xwpa",
       "source": "import",
       "blaz": "BLAZ948969415969",
@@ -2138,12 +2161,12 @@
       "counterparty": "MOHAMED ZUBAIR",
       "channel": "Internet Banking",
       "amount": 28,
-      "balanceAfter": 5152.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5152.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "2ftf85qwxwpa",
       "source": "import",
       "blaz": "BLAZ862356616693",
@@ -2155,12 +2178,12 @@
       "counterparty": "MOHAMED ZUBAIR",
       "channel": "Internet Banking",
       "amount": 32,
-      "balanceAfter": 5120.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5120.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "16otmji0xwpa",
       "source": "import",
       "blaz": "BLAZ231027116665",
@@ -2172,12 +2195,12 @@
       "counterparty": "FAZEEL AHMED",
       "channel": "Internet Banking",
       "amount": 15,
-      "balanceAfter": 5105.63,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 5105.63
     },
     {
+      "tags": [],
+      "contributions": [],
+      "description": "",
       "id": "a71zlqswxwpa",
       "source": "import",
       "blaz": "BLAZ747080936245",
@@ -2189,13 +2212,10 @@
       "counterparty": "AISHATH MIRUAATH AHMED",
       "channel": "Internet Banking",
       "amount": 848.99,
-      "balanceAfter": 4256.64,
-      "tags": [],
-      "contributions": [],
-      "description": ""
+      "balanceAfter": 4256.64
     }
   ],
   "meta": {
-    "savedAt": 1787416142363
+    "savedAt": 1787427581690
   }
 }
