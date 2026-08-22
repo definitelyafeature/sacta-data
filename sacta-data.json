@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "settings": {
+    "acctName": "",
+    "currency": "MVR",
+    "startMonth": "2026-01"
+  },
+  "ranks": [
+    {
+      "id": "u41uwrt2sf8o",
+      "name": "Regional Manager, sales",
+      "expected": 800
+    },
+    {
+      "id": "9oxvfrznsf8o",
+      "name": "Lead Financial Advisor",
+      "expected": 400
+    },
+    {
+      "id": "bgk1tsm0sf8o",
+      "name": "Senior Financial Advisor",
+      "expected": 300
+    },
+    {
+      "id": "0ly879oysf8o",
+      "name": "Financial Advisor",
+      "expected": 200
+    }
+  ],
+  "members": [
+    {
+      "id": "skizzkhfsf8o",
+      "name": "Shaiman",
+      "userId": "U3155",
+      "rankId": "0ly879oysf8o",
+      "bankNames": [
+        "AHMED SHAIMAN SHAMOON"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "mv4ngrndsf8o",
+      "name": "Huzna",
+      "userId": "U1484",
+      "rankId": "9oxvfrznsf8o",
+      "bankNames": [
+        "HUZNA AHMED"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "1zcnd6ppsf8o",
+      "name": "Miruaath",
+      "userId": "U2298",
+      "rankId": "bgk1tsm0sf8o",
+      "bankNames": [
+        "AISHATH MIRUAATH AHMED"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "aqvrwdc1sf8o",
+      "name": "Zunair",
+      "userId": "U1720",
+      "rankId": "bgk1tsm0sf8o",
+      "bankNames": [
+        "AHMED ZUNAIR"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "m27ylpcxsf8o",
+      "name": "Anis",
+      "userId": "U2493",
+      "rankId": "0ly879oysf8o",
+      "bankNames": [
+        "AHMED ANIS ABDULLA"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "me2erhzfsf8o",
+      "name": "Saushan",
+      "userId": "U2814",
+      "rankId": "0ly879oysf8o",
+      "bankNames": [
+        "SAUSHAN SOLIH"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "uhbt7to0sf8o",
+      "name": "Suaidh",
+      "userId": "U3753",
+      "rankId": "0ly879oysf8o",
+      "bankNames": [
+        "SUAIDH MOHAMED RASHEEDH"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    },
+    {
+      "id": "wwkmd81nsf8o",
+      "name": "Ismail",
+      "userId": "U1040",
+      "rankId": "u41uwrt2sf8o",
+      "bankNames": [
+        "ISMAIL ALI"
+      ],
+      "retired": false,
+      "joinMonth": "2026-01",
+      "retireMonth": null
+    }
+  ],
+  "creditTags": [
+    {
+      "id": "contribution",
+      "name": "Contribution",
+      "color": "#f9e2af",
+      "system": true
+    }
+  ],
+  "debitTags": [],
+  "transactions": [],
+  "meta": {
+    "savedAt": 1787413435671
+  }
+}
