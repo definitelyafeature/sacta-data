@@ -504,8 +504,16 @@
       "channel": "Internet Banking",
       "amount": 100,
       "balanceAfter": 2865,
-      "tags": [],
-      "contributions": [],
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-03",
+          "amount": 100
+        }
+      ],
       "description": ""
     },
     {
@@ -1836,6 +1844,6 @@
     }
   ],
   "meta": {
-    "savedAt": 1787414295380
+    "savedAt": 1787414309834
   }
 }
