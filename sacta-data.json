@@ -135,6 +135,18 @@
       "bankNames": [
         "NAIL MOHAMED SHAREEF"
       ]
+    },
+    {
+      "id": "8zti4laid4sw",
+      "retired": true,
+      "retireMonth": "2026-08",
+      "name": "Sameer",
+      "userId": "U1996",
+      "rankId": "q4do4fy2xhag",
+      "joinMonth": "2026-01",
+      "bankNames": [
+        "AHMED SAMEER"
+      ]
     }
   ],
   "creditTags": [
@@ -2184,6 +2196,6 @@
     }
   ],
   "meta": {
-    "savedAt": 1787415928349
+    "savedAt": 1787416048651
   }
 }
