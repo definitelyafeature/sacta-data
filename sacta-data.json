@@ -123,6 +123,18 @@
       "retired": false,
       "joinMonth": "2026-01",
       "retireMonth": null
+    },
+    {
+      "id": "ve4jslqe8rzl",
+      "retired": false,
+      "retireMonth": null,
+      "name": "Nail",
+      "userId": "U3238",
+      "rankId": "q4do4fy2xhag",
+      "joinMonth": "2026-01",
+      "bankNames": [
+        "NAIL MOHAMED SHAREEF"
+      ]
     }
   ],
   "creditTags": [
@@ -2172,6 +2184,6 @@
     }
   ],
   "meta": {
-    "savedAt": 1787415763042
+    "savedAt": 1787415844017
   }
 }
