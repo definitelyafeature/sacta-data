@@ -126,8 +126,8 @@
     },
     {
       "id": "ve4jslqe8rzl",
-      "retired": false,
-      "retireMonth": null,
+      "retired": true,
+      "retireMonth": "2026-08",
       "name": "Nail",
       "userId": "U3238",
       "rankId": "q4do4fy2xhag",
@@ -2184,6 +2184,6 @@
     }
   ],
   "meta": {
-    "savedAt": 1787415885958
+    "savedAt": 1787415928349
   }
 }
