@@ -2338,10 +2338,35 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "a4rxtmgza2b0",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "ISMAIL ALI",
+      "channel": "Manual",
+      "amount": 500,
+      "balanceAfter": null,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "n28qipqbxhag",
+          "month": "2026-09",
+          "amount": 500
+        }
+      ],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1788008796559,
+    "savedAt": 1788008808492,
     "mig28": true
   }
 }
