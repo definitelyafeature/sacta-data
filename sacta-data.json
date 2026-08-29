@@ -2263,10 +2263,35 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "a2l04lmk9505",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "SAUSHAN SOLIH",
+      "channel": "Manual",
+      "amount": 200,
+      "balanceAfter": null,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "m7wd898vxhag",
+          "month": "2026-09",
+          "amount": 200
+        }
+      ],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1788008751415,
+    "savedAt": 1788008765333,
     "mig28": true
   }
 }
