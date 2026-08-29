@@ -2213,10 +2213,35 @@
       "channel": "Internet Banking",
       "amount": 848.99,
       "balanceAfter": 4256.64
+    },
+    {
+      "id": "thjz1gvb8gka",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "AHMED ANIS ABDULLA",
+      "channel": "Manual",
+      "amount": 200,
+      "balanceAfter": null,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "llok1cc2xhag",
+          "month": "2026-09",
+          "amount": 200
+        }
+      ],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1787954259370,
+    "savedAt": 1788008733659,
     "mig28": true
   }
 }
