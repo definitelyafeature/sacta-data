@@ -2313,10 +2313,35 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "q6u5o7i39t3j",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "AISHATH MIRUAATH AHMED",
+      "channel": "Manual",
+      "amount": 300,
+      "balanceAfter": null,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "0blk15faxhag",
+          "month": "2026-09",
+          "amount": 300
+        }
+      ],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1788008778078,
+    "savedAt": 1788008796559,
     "mig28": true
   }
 }
