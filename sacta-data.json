@@ -2215,81 +2215,6 @@
       "balanceAfter": 4256.64
     },
     {
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "zquf7pnfxhag",
-          "month": "2026-09",
-          "amount": 600
-        }
-      ],
-      "description": "",
-      "id": "7xgbs9ze9eu6",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "AHMED ZUNAIR",
-      "channel": "Manual",
-      "amount": 600,
-      "balanceAfter": null
-    },
-    {
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "0blk15faxhag",
-          "month": "2026-09",
-          "amount": 300
-        }
-      ],
-      "description": "",
-      "id": "q6u5o7i39t3j",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "AISHATH MIRUAATH AHMED",
-      "channel": "Manual",
-      "amount": 300,
-      "balanceAfter": null
-    },
-    {
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "n28qipqbxhag",
-          "month": "2026-09",
-          "amount": 500
-        }
-      ],
-      "description": "",
-      "id": "a4rxtmgza2b0",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "ISMAIL ALI",
-      "channel": "Manual",
-      "amount": 500,
-      "balanceAfter": null
-    },
-    {
       "id": "2av1vo3g1qrc",
       "source": "import",
       "blaz": "BLAZ243190990664",
@@ -2458,7 +2383,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1788154587054,
+    "savedAt": 1788154597331,
     "mig28": true
   }
 }
