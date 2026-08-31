@@ -2220,31 +2220,6 @@
       ],
       "contributions": [
         {
-          "memberId": "r9iqd45xxhag",
-          "month": "2026-09",
-          "amount": 400
-        }
-      ],
-      "description": "",
-      "id": "u9py2whc8u9j",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "HUZNA AHMED",
-      "channel": "Manual",
-      "amount": 400,
-      "balanceAfter": null
-    },
-    {
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
           "memberId": "m7wd898vxhag",
           "month": "2026-09",
           "amount": 200
@@ -2508,7 +2483,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1788154575488,
+    "savedAt": 1788154583365,
     "mig28": true
   }
 }
