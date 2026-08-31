@@ -177,7 +177,13 @@
       "system": true
     }
   ],
-  "debitTags": [],
+  "debitTags": [
+    {
+      "id": "kr1mgui03nbw",
+      "name": "Staff Dinner",
+      "color": "#94e2d5"
+    }
+  ],
   "transactions": [
     {
       "tags": [
@@ -2377,13 +2383,15 @@
       "channel": "Internet Banking",
       "amount": 340.2,
       "balanceAfter": 6116.44,
-      "tags": [],
+      "tags": [
+        "kr1mgui03nbw"
+      ],
       "contributions": [],
       "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1788154597331,
+    "savedAt": 1788154635740,
     "mig28": true
   }
 }
