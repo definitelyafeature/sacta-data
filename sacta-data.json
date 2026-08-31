@@ -2215,6 +2215,17 @@
       "balanceAfter": 4256.64
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "llok1cc2xhag",
+          "month": "2026-09",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "thjz1gvb8gka",
       "source": "manual",
       "blaz": null,
@@ -2226,7 +2237,146 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Manual",
       "amount": 200,
-      "balanceAfter": null,
+      "balanceAfter": null
+    },
+    {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-09",
+          "amount": 400
+        }
+      ],
+      "description": "",
+      "id": "u9py2whc8u9j",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "HUZNA AHMED",
+      "channel": "Manual",
+      "amount": 400,
+      "balanceAfter": null
+    },
+    {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "m7wd898vxhag",
+          "month": "2026-09",
+          "amount": 200
+        }
+      ],
+      "description": "",
+      "id": "a2l04lmk9505",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "SAUSHAN SOLIH",
+      "channel": "Manual",
+      "amount": 200,
+      "balanceAfter": null
+    },
+    {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "zquf7pnfxhag",
+          "month": "2026-09",
+          "amount": 600
+        }
+      ],
+      "description": "",
+      "id": "7xgbs9ze9eu6",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "AHMED ZUNAIR",
+      "channel": "Manual",
+      "amount": 600,
+      "balanceAfter": null
+    },
+    {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "0blk15faxhag",
+          "month": "2026-09",
+          "amount": 300
+        }
+      ],
+      "description": "",
+      "id": "q6u5o7i39t3j",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "AISHATH MIRUAATH AHMED",
+      "channel": "Manual",
+      "amount": 300,
+      "balanceAfter": null
+    },
+    {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "n28qipqbxhag",
+          "month": "2026-09",
+          "amount": 500
+        }
+      ],
+      "description": "",
+      "id": "a4rxtmgza2b0",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-08-29",
+      "valueDate": "2026-08-29",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "ISMAIL ALI",
+      "channel": "Manual",
+      "amount": 500,
+      "balanceAfter": null
+    },
+    {
+      "id": "2av1vo3g1qrc",
+      "source": "import",
+      "blaz": "BLAZ243190990664",
+      "ft": "FT26242PW013\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 09-05-46",
+      "type": "credit",
+      "counterparty": "AHMED ANIS ABDULLA",
+      "channel": "Internet Banking",
+      "amount": 200,
+      "balanceAfter": 4456.64,
       "tags": [
         "contribution"
       ],
@@ -2240,18 +2390,18 @@
       "description": ""
     },
     {
-      "id": "u9py2whc8u9j",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
+      "id": "dcxbxu8c1qrc",
+      "source": "import",
+      "blaz": "BLAZ767229427820",
+      "ft": "FT2624222XHM\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 09-19-21",
       "type": "credit",
       "counterparty": "HUZNA AHMED",
-      "channel": "Manual",
+      "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": null,
+      "balanceAfter": 4856.64,
       "tags": [
         "contribution"
       ],
@@ -2265,18 +2415,18 @@
       "description": ""
     },
     {
-      "id": "a2l04lmk9505",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
+      "id": "11wflk7w1qrc",
+      "source": "import",
+      "blaz": "BLAZ302687587475",
+      "ft": "FT26242MD41Y\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 12-49-42",
       "type": "credit",
       "counterparty": "SAUSHAN SOLIH",
-      "channel": "Manual",
+      "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": null,
+      "balanceAfter": 5056.64,
       "tags": [
         "contribution"
       ],
@@ -2290,18 +2440,18 @@
       "description": ""
     },
     {
-      "id": "7xgbs9ze9eu6",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
+      "id": "xyty4sp51qrc",
+      "source": "import",
+      "blaz": "BLAZ625071835920",
+      "ft": "FT26242FS7N1\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 13-14-23",
       "type": "credit",
       "counterparty": "AHMED ZUNAIR",
-      "channel": "Manual",
+      "channel": "Internet Banking",
       "amount": 600,
-      "balanceAfter": null,
+      "balanceAfter": 5656.64,
       "tags": [
         "contribution"
       ],
@@ -2315,18 +2465,18 @@
       "description": ""
     },
     {
-      "id": "q6u5o7i39t3j",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
+      "id": "t5s1r90v1qrc",
+      "source": "import",
+      "blaz": "BLAZ495460594766",
+      "ft": "FT262424CSFW\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 13-25-58",
       "type": "credit",
       "counterparty": "AISHATH MIRUAATH AHMED",
-      "channel": "Manual",
+      "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": null,
+      "balanceAfter": 5956.64,
       "tags": [
         "contribution"
       ],
@@ -2340,18 +2490,18 @@
       "description": ""
     },
     {
-      "id": "a4rxtmgza2b0",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
+      "id": "q9rhzt2i1qrc",
+      "source": "import",
+      "blaz": "BLAZ252969799409",
+      "ft": "FT2624248FXZ\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "29-08-2026 15-54-58",
       "type": "credit",
       "counterparty": "ISMAIL ALI",
-      "channel": "Manual",
+      "channel": "Internet Banking",
       "amount": 500,
-      "balanceAfter": null,
+      "balanceAfter": 6456.64,
       "tags": [
         "contribution"
       ],
@@ -2363,10 +2513,27 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "3e6658mj1qrc",
+      "source": "import",
+      "blaz": "BLAZ354079463765",
+      "ft": "FT26242J6DQ9\\B26",
+      "date": "2026-08-30",
+      "valueDate": "2026-08-30",
+      "ts": "30-08-2026 19-58-30",
+      "type": "debit",
+      "counterparty": "MARIYAM ANJAL ABDULLA",
+      "channel": "Internet Banking",
+      "amount": 340.2,
+      "balanceAfter": 6116.44,
+      "tags": [],
+      "contributions": [],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1788008808492,
+    "savedAt": 1788154553336,
     "mig28": true
   }
 }
