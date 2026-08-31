@@ -2220,31 +2220,6 @@
       ],
       "contributions": [
         {
-          "memberId": "llok1cc2xhag",
-          "month": "2026-09",
-          "amount": 200
-        }
-      ],
-      "description": "",
-      "id": "thjz1gvb8gka",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-08-29",
-      "valueDate": "2026-08-29",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "AHMED ANIS ABDULLA",
-      "channel": "Manual",
-      "amount": 200,
-      "balanceAfter": null
-    },
-    {
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
           "memberId": "r9iqd45xxhag",
           "month": "2026-09",
           "amount": 400
@@ -2533,7 +2508,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1788154553336,
+    "savedAt": 1788154575488,
     "mig28": true
   }
 }
