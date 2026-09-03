@@ -49,7 +49,7 @@
       "bankNames": [
         "HUZNA AHMED"
       ],
-      "forgiven": 0,
+      "forgiven": 100,
       "photo": null,
       "id": "r9iqd45xxhag",
       "name": "Huzna",
@@ -2390,6 +2390,17 @@
       "balanceAfter": 6116.44
     },
     {
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "tqk21ycvxhag",
+          "month": "2026-09",
+          "amount": 200
+        }
+      ],
+      "description": "",
       "id": "jpglk23beaf5",
       "source": "import",
       "blaz": "BLAZ794374183423",
@@ -2401,22 +2412,11 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 6316.44,
-      "tags": [
-        "contribution"
-      ],
-      "contributions": [
-        {
-          "memberId": "tqk21ycvxhag",
-          "month": "2026-09",
-          "amount": 200
-        }
-      ],
-      "description": ""
+      "balanceAfter": 6316.44
     }
   ],
   "meta": {
-    "savedAt": 1788418886126,
+    "savedAt": 1788419719055,
     "mig28": true
   }
 }
