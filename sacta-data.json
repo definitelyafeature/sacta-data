@@ -9,7 +9,7 @@
     {
       "id": "w73lc0w1xhag",
       "name": "Regional Manager, sales",
-      "expected": 800
+      "expected": 500
     },
     {
       "id": "vpkp5i16xhag",
@@ -2416,7 +2416,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1788420344954,
+    "savedAt": 1788425754143,
     "mig28": true
   }
 }
