@@ -2648,10 +2648,35 @@
       "tags": [],
       "contributions": [],
       "description": ""
+    },
+    {
+      "id": "4eauig9l3v39",
+      "source": "manual",
+      "blaz": null,
+      "ft": null,
+      "date": "2026-10-08",
+      "valueDate": "2026-10-08",
+      "ts": "",
+      "type": "credit",
+      "counterparty": "AHMED SHAIMAN SHAMOON",
+      "channel": "Manual",
+      "amount": 200,
+      "balanceAfter": null,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "tqk21ycvxhag",
+          "month": "2026-10",
+          "amount": 200
+        }
+      ],
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1791476839807,
+    "savedAt": 1791476926245,
     "mig28": true
   }
 }
