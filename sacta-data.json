@@ -2649,7 +2649,9 @@
       "channel": "Internet Banking",
       "amount": 2550,
       "balanceAfter": 4566.44,
-      "tags": [],
+      "tags": [
+        "91r7894450gl"
+      ],
       "contributions": [],
       "description": ""
     },
@@ -2697,7 +2699,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791477133822,
+    "savedAt": 1791477158268,
     "mig28": true
   }
 }
