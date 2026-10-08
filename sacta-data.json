@@ -187,6 +187,11 @@
       "id": "91r7894450gl",
       "name": "cake",
       "color": "#89b4fa"
+    },
+    {
+      "id": "18l0crub6loc",
+      "name": "breakfast",
+      "color": "#cba6f7"
     }
   ],
   "transactions": [
@@ -2532,7 +2537,9 @@
       "channel": "Internet Banking",
       "amount": 500,
       "balanceAfter": 7216.44,
-      "tags": [],
+      "tags": [
+        "18l0crub6loc"
+      ],
       "contributions": [],
       "description": ""
     },
@@ -2683,7 +2690,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791477008800,
+    "savedAt": 1791477054012,
     "mig28": true
   }
 }
