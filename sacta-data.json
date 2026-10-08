@@ -182,6 +182,11 @@
       "id": "kr1mgui03nbw",
       "name": "Staff Dinner",
       "color": "#94e2d5"
+    },
+    {
+      "id": "91r7894450gl",
+      "name": "cake",
+      "color": "#89b4fa"
     }
   ],
   "transactions": [
@@ -2586,7 +2591,9 @@
       "channel": "Internet Banking",
       "amount": 250,
       "balanceAfter": 6916.44,
-      "tags": [],
+      "tags": [
+        "91r7894450gl"
+      ],
       "contributions": [],
       "description": ""
     },
@@ -2676,7 +2683,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791476926245,
+    "savedAt": 1791476979861,
     "mig28": true
   }
 }
