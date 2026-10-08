@@ -2452,8 +2452,16 @@
       "channel": "Internet Banking",
       "amount": 500,
       "balanceAfter": 7216.44,
-      "tags": [],
-      "contributions": [],
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "n28qipqbxhag",
+          "month": "2026-09",
+          "amount": 500
+        }
+      ],
       "description": ""
     },
     {
@@ -2469,8 +2477,16 @@
       "channel": "Internet Banking",
       "amount": 200,
       "balanceAfter": 7416.44,
-      "tags": [],
-      "contributions": [],
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "llok1cc2xhag",
+          "month": "2026-10",
+          "amount": 200
+        }
+      ],
       "description": ""
     },
     {
@@ -2486,8 +2502,16 @@
       "channel": "Internet Banking",
       "amount": 300,
       "balanceAfter": 7716.44,
-      "tags": [],
-      "contributions": [],
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "zquf7pnfxhag",
+          "month": "2026-10",
+          "amount": 300
+        }
+      ],
       "description": ""
     },
     {
@@ -2611,7 +2635,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791476816676,
+    "savedAt": 1791476832065,
     "mig28": true
   }
 }
