@@ -2668,7 +2668,9 @@
       "channel": "Internet Banking",
       "amount": 620.14,
       "balanceAfter": 3946.3,
-      "tags": [],
+      "tags": [
+        "kr1mgui03nbw"
+      ],
       "contributions": [],
       "description": ""
     },
@@ -2699,7 +2701,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791477182972,
+    "savedAt": 1791477196221,
     "mig28": true
   }
 }
