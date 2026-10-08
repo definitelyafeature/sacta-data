@@ -192,6 +192,11 @@
       "id": "18l0crub6loc",
       "name": "breakfast",
       "color": "#cba6f7"
+    },
+    {
+      "id": "h493v4sg8b9a",
+      "name": "flowers",
+      "color": "#f9e2af"
     }
   ],
   "transactions": [
@@ -2581,7 +2586,9 @@
       "channel": "Internet Banking",
       "amount": 250,
       "balanceAfter": 7166.44,
-      "tags": [],
+      "tags": [
+        "h493v4sg8b9a"
+      ],
       "contributions": [],
       "description": ""
     },
@@ -2690,7 +2697,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791477079562,
+    "savedAt": 1791477133822,
     "mig28": true
   }
 }
