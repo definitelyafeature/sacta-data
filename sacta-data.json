@@ -2689,7 +2689,9 @@
       "balanceAfter": 3946.3
     },
     {
-      "tags": [],
+      "tags": [
+        "kr1mgui03nbw"
+      ],
       "contributions": [],
       "description": "",
       "id": "iys4jlkm37a5",
@@ -2857,7 +2859,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1793301117380,
+    "savedAt": 1793301166180,
     "mig28": true,
     "mig28i": true,
     "mig28eq": true
