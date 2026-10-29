@@ -2689,6 +2689,160 @@
       "balanceAfter": 3946.3
     },
     {
+      "id": "iys4jlkm37a5",
+      "source": "import",
+      "blaz": "BLAZ847085702001",
+      "ft": "FT26291KNBQM\\B26",
+      "date": "2026-10-18",
+      "valueDate": "2026-10-18",
+      "ts": "17-10-2026 19-40-01",
+      "type": "debit",
+      "counterparty": "MARIYAM ANJAL ABDULLA",
+      "channel": "Internet Banking",
+      "amount": 1,
+      "balanceAfter": 3,
+      "tags": [],
+      "contributions": [],
+      "description": ""
+    },
+    {
+      "id": "u3zbdw7r37a5",
+      "source": "import",
+      "blaz": "BLAZ727956429457",
+      "ft": "FT26301JMC0Q\\B26",
+      "date": "2026-10-28",
+      "valueDate": "2026-10-28",
+      "ts": "28-10-2026 17-47-51",
+      "type": "credit",
+      "counterparty": "HUZNA AHMED",
+      "channel": "Internet Banking",
+      "amount": 400,
+      "balanceAfter": 3,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "r9iqd45xxhag",
+          "month": "2026-10",
+          "amount": 400
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "u2ouj1c137a5",
+      "source": "import",
+      "blaz": "BLAZ691307321333",
+      "ft": "FT26301Q6ZDK\\B26",
+      "date": "2026-10-28",
+      "valueDate": "2026-10-28",
+      "ts": "28-10-2026 18-15-35",
+      "type": "credit",
+      "counterparty": "AHMED ANIS ABDULLA",
+      "channel": "Internet Banking",
+      "amount": 200,
+      "balanceAfter": 3,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "llok1cc2xhag",
+          "month": "2026-10",
+          "amount": 200
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "hwfmc91i37a5",
+      "source": "import",
+      "blaz": "BLAZ517000906926",
+      "ft": "FT26301LD486\\B26",
+      "date": "2026-10-28",
+      "valueDate": "2026-10-28",
+      "ts": "28-10-2026 18-55-10",
+      "type": "credit",
+      "counterparty": "HUSSAIN KHUSSAAN KHALID",
+      "channel": "Internet Banking",
+      "amount": 200,
+      "balanceAfter": 3,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "8da2x7dq2y5f",
+          "month": "2026-10",
+          "amount": 200
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "0hhutzd437a5",
+      "source": "import",
+      "blaz": "BLAZ696568024334",
+      "ft": "FT26301BVMC4\\B26",
+      "date": "2026-10-28",
+      "valueDate": "2026-10-28",
+      "ts": "28-10-2026 19-07-31",
+      "type": "credit",
+      "counterparty": "AISHATH MIRUAATH AHMED",
+      "channel": "Internet Banking",
+      "amount": 300,
+      "balanceAfter": 4,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "0blk15faxhag",
+          "month": "2026-10",
+          "amount": 300
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "pxpwizr537a5",
+      "source": "import",
+      "blaz": "BLAZ785084573701",
+      "ft": "FT2630181Q70\\B26",
+      "date": "2026-10-28",
+      "valueDate": "2026-10-28",
+      "ts": "28-10-2026 19-09-43",
+      "type": "credit",
+      "counterparty": "AHMED ZUNAIR",
+      "channel": "Internet Banking",
+      "amount": 300,
+      "balanceAfter": 4,
+      "tags": [
+        "contribution"
+      ],
+      "contributions": [
+        {
+          "memberId": "zquf7pnfxhag",
+          "month": "2026-10",
+          "amount": 300
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "1nwli6nl37a5",
+      "source": "import",
+      "blaz": "BLAZ454517546162",
+      "ft": "FT26281BSR7M\\B26",
+      "date": "2026-10-08",
+      "valueDate": "2026-10-08",
+      "ts": "08-10-2026 21-28-14",
+      "type": "credit",
+      "counterparty": "AHMED SHAIMAN SHAMOON",
+      "channel": "Internet Banking",
+      "amount": 200,
+      "balanceAfter": 4,
       "tags": [
         "contribution"
       ],
@@ -2699,23 +2853,11 @@
           "amount": 200
         }
       ],
-      "description": "",
-      "id": "4eauig9l3v39",
-      "source": "manual",
-      "blaz": null,
-      "ft": null,
-      "date": "2026-10-08",
-      "valueDate": "2026-10-08",
-      "ts": "",
-      "type": "credit",
-      "counterparty": "AHMED SHAIMAN SHAMOON",
-      "channel": "Manual",
-      "amount": 200,
-      "balanceAfter": null
+      "description": ""
     }
   ],
   "meta": {
-    "savedAt": 1793299266915,
+    "savedAt": 1793299291674,
     "mig28": true,
     "mig28i": true
   }
