@@ -167,6 +167,20 @@
       "name": "Sameer",
       "userId": "U1996",
       "rankId": "q4do4fy2xhag"
+    },
+    {
+      "id": "8da2x7dq2y5f",
+      "retired": false,
+      "retireMonth": null,
+      "name": "Khussaan",
+      "userId": "U3928",
+      "rankId": "q4do4fy2xhag",
+      "joinMonth": "2026-11",
+      "bankNames": [
+        "HUSSAIN KHUSSAAN KHALID"
+      ],
+      "forgiven": 0,
+      "photo": null
     }
   ],
   "creditTags": [
@@ -2701,7 +2715,7 @@
     }
   ],
   "meta": {
-    "savedAt": 1791478051993,
+    "savedAt": 1793299266915,
     "mig28": true,
     "mig28i": true
   }
