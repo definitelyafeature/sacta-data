@@ -2728,7 +2728,7 @@
       "counterparty": "HUZNA AHMED",
       "channel": "Internet Banking",
       "amount": 400,
-      "balanceAfter": 3
+      "balanceAfter": 3533.64
     },
     {
       "tags": [
@@ -2753,7 +2753,7 @@
       "counterparty": "AHMED ANIS ABDULLA",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 3
+      "balanceAfter": 3733.64
     },
     {
       "tags": [
@@ -2778,7 +2778,7 @@
       "counterparty": "HUSSAIN KHUSSAAN KHALID",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 3
+      "balanceAfter": 3933.64
     },
     {
       "tags": [
@@ -2803,7 +2803,7 @@
       "counterparty": "AISHATH MIRUAATH AHMED",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 4
+      "balanceAfter": 4233.64
     },
     {
       "tags": [
@@ -2828,7 +2828,7 @@
       "counterparty": "AHMED ZUNAIR",
       "channel": "Internet Banking",
       "amount": 300,
-      "balanceAfter": 4
+      "balanceAfter": 4533.64
     },
     {
       "tags": [
@@ -2853,11 +2853,11 @@
       "counterparty": "AHMED SHAIMAN SHAMOON",
       "channel": "Internet Banking",
       "amount": 200,
-      "balanceAfter": 4
+      "balanceAfter": 4146.3
     }
   ],
   "meta": {
-    "savedAt": 1793300908577,
+    "savedAt": 1793301117380,
     "mig28": true,
     "mig28i": true,
     "mig28eq": true
